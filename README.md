@@ -117,7 +117,7 @@ All rights reserved。
 
 ## 若此项目能得到你的青睐，支持开源项目，可以捐赠支持作者持续开发与维护。
 
-![image](images/pay.png)
+![image](coffee.png)
 
 ## 问题反馈
 
