@@ -23,8 +23,8 @@
     <a href='https://gitee.com/itisxx/domain'>
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
     </a>
-    <a href='https://gitee.com/itisxx/itisxx'>
-        <img src='https://gitee.com/itisxx/itisxx/badge/fork.svg?theme=white' alt='fork'></img>
+    <a href='https://github.com/itisxx/itisxx'>
+        <img src='https://github.com/itisxx/itisxx/badge/fork.svg?theme=white' alt='fork'></img>
     </a>
 
 </p>
