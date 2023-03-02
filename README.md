@@ -24,7 +24,7 @@
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
     </a>
     <a href='https://github.com/itisxx/itisxx'>
-        ![image](https://simpleicons.org/icons/github.svg) ![image](https://img.shields.io/github/stars/itisxx/itisxx.svg)
+        ![image](https://simpleicons.org/icons/github.svg) ![Github stars](https://img.shields.io/github/stars/itisxx/itisxx.svg)
     </a>
 
 </p>
