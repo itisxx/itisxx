@@ -15,10 +15,10 @@
         <img src="https://img.shields.io/badge/layui-2.8.*-green.svg" alt="layui">
     </a>
     <a href="http://www.funadmin.com/">
-        <img src="https://img.shields.io/badge/php-%3E%3D8.2-8892BF.svg" alt="PHP Version">
+        <img src="https://img.shields.io/badge/php-%3E%3D7.4-8892BF.svg" alt="PHP Version">
     </a>
     <a href='https://gitee.com/funadmin/funadmin'>
-        <img src='https://img.shields.io/badge/Mysql-%3E%3D5.8-green' alt='MYSQL'></img>
+        <img src='https://img.shields.io/badge/Mysql-%3E%3D5.7-green' alt='MYSQL'></img>
     </a>
     <a href='https://gitee.com/itisxx/domain'>
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
@@ -62,13 +62,13 @@ Itisxx 基于thinkphp6.X +Layui2.8.*+requirejs开发权限(RBAC)管理框架，�
 
 ## 环境要求:
 
-* PHP >= 7.4 支持php8.2
+* PHP >= 7.4 支持 php 8.2
 * PDO PHP Extension
 * MBstring PHP Extension
 * CURL PHP Extension
 * 开启静态重写
 * 要求环境支持pathinfo
-* Mysql 5.7及以上
+* Mysql 5.7 及 以上
 * Apache 或 Nginx
 
 ### 功能特性
@@ -117,7 +117,7 @@ All rights reserved。
 
 ## 若此项目能得到你的青睐，支持开源项目，可以捐赠支持作者持续开发与维护。
 
-![image](doc/images/pay.png)
+![image](images/pay.png)
 
 ## 问题反馈
 
