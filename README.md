@@ -24,7 +24,7 @@
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
     </a>
     <a href='https://github.com/itisxx/itisxx'>
-        <img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&suffix=%20stars&url=https://api.swo.moe/stats/github/itisxx' alt='star'></img>
+        <img src='https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&color=181717&labelColor=282c34&query=%24.count&suffix=%20stars&url=https://api.swo.moe/stats/github/itisxx' alt='star'></img>
     </a>
 </p>
 https://simpleicons.org/icons/github.svg
