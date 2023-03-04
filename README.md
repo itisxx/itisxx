@@ -24,12 +24,12 @@
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
     </a>
     <a href='https://github.com/itisxx/itisxx'>
-        ![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https://api.swo.moe/stats/github/itisxx)
+        <img src='[https://gitee.com/itisxx/domain/badge/star.svg?theme=dark](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https://api.swo.moe/stats/github/itisxx)' alt='star'></img>
     </a>
 
 </p>
-[![image](https://simpleicons.org/icons/github.svg)](https://www.521290.com)
-<br>
+<img src='https://simpleicons.org/icons/github.svg' alt='star'></img>
+
 ### 用爱发电，开源不易，请先点击右上角 "Star" 支持一下 谢谢！
 
 ### 如果您想获悉项目实时更新信息，您可以点右上角"Watch"
