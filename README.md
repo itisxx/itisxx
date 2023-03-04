@@ -25,7 +25,8 @@
     </a>
     <a href='https://github.com/itisxx/itisxx'>
         [![image](https://simpleicons.org/icons/github.svg)](https://www.521290.com)
-        [![Github stars](https://img.shields.io/github/stars/itisxx/itisxx.svg "Github stars")](https://www.521290.com "Github stars")
+        [![Github stars](https://img.shields.io/github/stars/itisxx/itisxx.svg)](https://www.521290.com)
+        [![GitHub](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub&labelColor=2C2E43&color=2C2E43&query=%24.count&url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fitisxx)](https://github.com/itisxx)
     </a>
 
 </p>
