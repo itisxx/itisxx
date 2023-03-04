@@ -26,6 +26,7 @@
     <a href='https://github.com/itisxx/itisxx'>
         ![image](https://simpleicons.org/icons/github.svg) 
         ![image](https://img.shields.io/github/stars/itisxx/itisxx.svg)
+        [![Author](https://img.shields.io/badge/Author-ACGkaka-red.svg "Author")](https://ACGkaka.github.io "Author")
     </a>
 
 </p>
