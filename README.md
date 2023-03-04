@@ -24,9 +24,8 @@
         <img src='https://gitee.com/itisxx/domain/badge/star.svg?theme=dark' alt='star'></img>
     </a>
     <a href='https://github.com/itisxx/itisxx'>
-        ![image](https://simpleicons.org/icons/github.svg) 
-        ![image](https://img.shields.io/github/stars/itisxx/itisxx.svg)
-        [![Author](https://img.shields.io/badge/Author-ACGkaka-red.svg "Author")](https://ACGkaka.github.io "Author")
+        [![github](https://simpleicons.org/icons/github.svg "github")](https://www.521290.com "github")
+        [![Github stars](https://img.shields.io/github/stars/itisxx/itisxx.svg "Github stars")](https://www.521290.com "Github stars")
     </a>
 
 </p>
