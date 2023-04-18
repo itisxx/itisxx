@@ -3,8 +3,17 @@
 <h3 align="center"><a href="https://www.521290.com/">https://www.521290.com/</a></h3>
 <h3 align="center"><a href="https://itisxx.github.io/">https://itisxx.github.io/</a></h3>
 <h3 align="center"><a href="https://mi.aliyun.com/shop/21045">https://mi.aliyun.com/shop/21045</a></h3>
+    
 
 <h3 align="center">精品域名 阿里云(万网)交易，安全方便，即时过户。万网域名交易，买卖域名就像淘宝一样简单!</h3>
+
+<BR>
+<h3 align="center">极速资源网</h3>
+<h3 align="center"><a href="https://www.swiftdown.com/">https://www.swiftdown.com/</a></h3>
+
+<BR>
+<h3 align="center">WordPress主题插件开发</h3>
+<h3 align="center"><a href="https://www.themepretty.com/">https://www.themepretty.com/</a></h3>
 
 <h4 align="center">用爱发电，开源不易，您先点右上角 "Star" 支持一下 谢谢！</h4>
 <p align="center">
