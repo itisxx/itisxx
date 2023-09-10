@@ -120,7 +120,7 @@ Itisxx 基于thinkphp6.X +Layui2.8.*+requirejs开发权限(RBAC)管理框架，�
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2018-2030 by FunAdmin [www.12342.net](http://www.12342.net)
+版权所有Copyright © 2018-2030 by Admin [www.12342.net](http://www.12342.net)
 
 All rights reserved。
 
