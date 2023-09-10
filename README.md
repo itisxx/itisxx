@@ -1,6 +1,6 @@
 <BR>
 <h3 align="center">阿里云米店</h3>
-<h3 align="center"><a href="https://www.521290.com/">https://www.521290.com/</a></h3>
+<h3 align="center"><a href="https://www.12342.net/">https://www.12342.net/</a></h3>
 <h3 align="center"><a href="https://itisxx.github.io/">https://itisxx.github.io/</a></h3>
 <h3 align="center"><a href="https://mi.aliyun.com/shop/21045">https://mi.aliyun.com/shop/21045</a></h3>
     
@@ -46,7 +46,7 @@ https://simpleicons.org/icons/github.svg
 
 ### Github：https://github.com/itisxx/itisxx
 
-### 官方网址：http://www.521290.com/
+### 官方网址：http://www.12342.net/
 
 ## 项目介绍
 
@@ -104,7 +104,7 @@ Itisxx 基于thinkphp6.X +Layui2.8.*+requirejs开发权限(RBAC)管理框架，�
 
 * 系统名称：开发系统框架
 * 作者：breeze
-* 官网网址：[http://www.521290.com/](http://www.521290.com/)
+* 官网网址：[http://www.12342.net/](http://www.12342.net/)
 * 开源协议：MIT
 
 ## 鸣谢以下开源项目以及项目中用到的其他开源项目 （排名不分先后，）
@@ -120,7 +120,7 @@ Itisxx 基于thinkphp6.X +Layui2.8.*+requirejs开发权限(RBAC)管理框架，�
 
 本项目包含的第三方源码和二进制文件之版权信息另行标注。
 
-版权所有Copyright © 2018-2030 by FunAdmin [www.521290.com](http://www.521290.com)
+版权所有Copyright © 2018-2030 by FunAdmin [www.12342.net](http://www.12342.net)
 
 All rights reserved。
 
