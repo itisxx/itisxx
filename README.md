@@ -45,7 +45,7 @@ https://simpleicons.org/icons/github.svg
 
 ### Github：https://github.com/itisxx/itisxx
 
-### 官方网址：http://www.12342.net/
+### 官方网址：https://www.hertzdance.com/
 
 ## 项目介绍
 
