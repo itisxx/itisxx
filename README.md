@@ -8,7 +8,7 @@
 
 <BR>
 <h3 align="center">频率跳动资源网</h3>
-<h3 align="center"><a href="https://www.swiftdown.com/">https://www.hertzdance.com/</a></h3>
+<h3 align="center"><a href="https://www.hertzdance.com/">https://www.hertzdance.com/</a></h3>
 
 <BR>
 <h3 align="center">WordPress主题插件开发</h3>
